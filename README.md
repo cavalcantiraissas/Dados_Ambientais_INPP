@@ -21,7 +21,7 @@ Projeto de análise de dados ambientais desenvolvido em Python, cobrindo as etap
 
 ## Requisitos
 
-- Python 3.8 ou superior
+- Python 3.8+
 - pip
 
 Bibliotecas utilizadas:
